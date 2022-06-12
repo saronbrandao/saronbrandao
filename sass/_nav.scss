@@ -1,0 +1,30 @@
+.nav {
+  position: fixed;
+  right: 0;
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  gap: 10px;
+  align-content: center;
+  justify-items: center;
+  margin: 10px 10px 0 0;
+  // background-color: yellow;
+  height: 50px;
+  z-index: 10;
+
+  &_link {
+    padding: 10px 20px;
+    font-size: 2rem;
+    text-decoration: none;
+    color: $text-primary-color;
+    transition: background-color 0.2s, transform 0.2s;
+    // transition: all 0.2s;
+
+    &:active {
+      transform: scale(0.9);
+    }
+
+    &:hover {
+      background-color: $accent-color;
+    }
+  }
+}

@@ -1,0 +1,91 @@
+// COLOR VARIABLES
+$default-primary-color: #212121;
+$dark-primary-color: #607d8b;
+$light-primary-color: #c5cae9;
+$text-primary-color: #ffffff;
+$text-secondary-color: #757575;
+$accent-color: #607d8b;
+$primary-text-color: #212121;
+$divider-color: #bdbdbd;
+$testimonial-bg-color: #d9d9d9;
+
+//FONT SIZES
+$h1: 8rem;
+$h2: 6rem;
+$h3: 4rem;
+$h4: 2.5rem;
+$p: 1.5rem;
+$small: 2rem;
+//MY COLORS
+// $default-primary-color: #3f51b5;
+// $dark-primary-color: #303f9f;
+// $light-primary-color: #c5cae9;
+// $text-primary-color: #ffffff;
+// $text-secondary-color: #757575;
+// $accent-color: #607d8b;
+// $primary-text-color: #212121;
+// $divider-color: #bdbdbd;
+
+// FONT VARIABLES
+$font-primary: 'Roboto', sans-serif;
+$font-display: 'Josefin Sans', sans-serif;
+
+// RESPONSIVE BREAKPOINTS
+$bp-largest: 75em; // 1200 pixels
+$bp-large: 62.5em; // 1000 pixels
+$bp-medium: 50em; // 800 pixels
+$bp-small: 37.5em; // 600 pixels
+
+*,
+*::before,
+a::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  overflow-x: hidden;
+  // overflow-y: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: $default-primary-color;
+  font-family: $font-primary, sans-serif;
+  // font-family: $font-primary;
+  // color: $color-grey-dark-2;
+  // font-weight: 300;
+  // line-height: 1.6;
+}
+
+p {
+  font-size: $p;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: $h1;
+}
+
+h2 {
+  font-size: $h2;
+}
+
+h3 {
+  font-size: $h3;
+}
+
+h4 {
+  font-size: $h4;
+}
+
+small {
+  font-size: $small;
+}
+
+// .container {
+// }

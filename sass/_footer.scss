@@ -1,0 +1,56 @@
+.footer_container {
+  height: auto;
+  width: 100%;
+  background-color: $text-primary-color;
+
+  &_contact {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 90%;
+    margin: 0 auto;
+
+    &-left {
+      display: grid;
+      grid-template-columns: 1fr;
+
+      grid-template-rows: auto;
+
+      grid-area: 1 / 1 / -1 / 2;
+      margin: 20px 0 20px 20px;
+      gap: 10px;
+
+      &_text-1 {
+        font-size: 1.5rem;
+        font-weight: 300;
+      }
+      &_text-2 {
+        margin-top: -10px;
+        font-size: 1.5rem;
+        font-weight: 300;
+      }
+    }
+    &-right {
+      grid-area: 1 / 2 / -1 / 3;
+      display: grid;
+      grid-template-columns: 1fr;
+      margin: 20px 0 20px 20px;
+      justify-items: right;
+      align-items: center;
+
+      &_icon-1 {
+        grid-area: 1 / 1 / 2 / 2;
+      }
+      &_icon-2 {
+        grid-area: 1 / 2 / 2 / 3;
+      }
+      &_icon-3 {
+        grid-area: 1 / 3 / 2 / 4;
+      }
+    }
+  }
+}
+
+.fa-brands {
+  font-size: 3rem;
+  cursor: pointer;
+}
