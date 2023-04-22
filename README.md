@@ -1,4 +1,5 @@
 Hi there, I'm Saron 👋
+
 I'm a full-stack web developer with 2+ years of experience in building modern and responsive web applications. My expertise includes:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -16,11 +17,7 @@ I'm a full-stack web developer with 2+ years of experience in building modern an
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
-
 I specialize in creating clean and elegant user interfaces with a focus on user experience and accessibility.
-
-🌱 Currently Learning
-I'm currently expanding my skillset by learning more about [Technology/Tool/Concept], and [Technology/Tool/Concept].
 
 📫 Contact Me
 If you'd like to get in touch, feel free to connect with me on https://www.linkedin.com/in/saronbrandao/
