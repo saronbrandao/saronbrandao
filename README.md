@@ -1,4 +1,4 @@
-Hi there, I'm Saron 👋
+Hello, I'm Saron 👋
 
 I'm a full-stack web developer with 2+ years of experience in building modern and responsive web applications. My expertise includes:
 
