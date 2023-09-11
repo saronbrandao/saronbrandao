@@ -1,6 +1,6 @@
 Hello, I'm Saron 👋
 
-I'm a full-stack web developer with 2+ years of experience in building modern and responsive web applications. My expertise includes:
+I'm a Web developer with experience in building modern and responsive web applications. My expertise includes:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
